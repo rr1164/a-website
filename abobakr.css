@@ -1,0 +1,45 @@
+body{
+    background: url(nature-background-outside-city-free-psd-background.jpg);
+    background-size: cover;
+    color:red;
+    font-size: 33px;
+}
+cf {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+h1
+{
+   margin-left:600px;
+   margin-bottom: 1px;
+    margin-top: 150px;
+    margin-right: 180px;
+    font-size: 33px;
+}
+a
+{
+    margin-left:600px;
+   margin-bottom: 1px;
+    margin-top: 150px;
+    margin-right: 180px;
+    font-size: 35px;
+}
+table
+{
+    font-size: 24px;
+}
